@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.0.5-dirty on 2023-07-23; AND!XOR DC31 Roberto with rp2040
+Board ID:roberto
+UID:E4615491E34E5630
